@@ -1,5 +1,5 @@
 def main():
     print("Hello!")
-    print("Good-bye!")
+    print("Goodbye!")
 
 main()
